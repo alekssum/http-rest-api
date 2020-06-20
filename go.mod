@@ -8,6 +8,7 @@ require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.2.1 // indirect
 	github.com/gorilla/mux v1.7.4
 	github.com/lib/pq v1.7.0
+	github.com/magiconair/properties v1.8.1
 	github.com/onsi/ginkgo v1.13.0 // indirect
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.4.0
