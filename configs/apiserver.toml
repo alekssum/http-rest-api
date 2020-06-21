@@ -1,3 +1,4 @@
 bind_addr = ":8080"
 log_level = "debug"
 database_url = "host=localhost user=test password=123 dbname=test sslmode=disable"
+session_key = "secret"
